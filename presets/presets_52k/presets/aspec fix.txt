@@ -1,0 +1,10 @@
+frame
+
+q1=pixelsx;
+q2=pixelsy;
+monitor=q2;
+
+
+custwave
+
+x = (x-0.5)*(q1/q2) + 0.5;

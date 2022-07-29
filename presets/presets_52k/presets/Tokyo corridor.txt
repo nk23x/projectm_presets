@@ -1,0 +1,11 @@
+Tokyo corridor (based on shifter tumbling cube tweak)
+
+First attempt within Milkdrop presets on 10/12/2007 -
+
+Was trying to get a 3d noisy tech, like a city rough surveillance cam in a manga mood.
+Have spent around 40 minutes from shifter tumbling cube preset as i had no idea about the way to do this.
+Next time I'll try and start from scratch with a more 'city' mesh.
+
+Santa Klaus : if milkdrop could eat 3d mesh standard file as it does with jpeg ...
+
+Big Thanks to Geiss, Shifter, Aderrasi, FshBrain, E.O.S, Rovastar, Zylot, Yin, Phat, KrasH, ... and many others for hours of trip :)
